@@ -1,0 +1,5 @@
+#! /bin/bash
+
+mate-panel --replace
+
+marco --replace
